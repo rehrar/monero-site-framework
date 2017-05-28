@@ -1,7 +1,7 @@
 # Intro
 This folder of the Monero site repository is set up so anyone who wants to help write copy for the Monero website has a place to submit requested changes before the website goes live. After the new website is up, the copy must be changed in the site itself on the official Monero Project repository.
 
-*If you're looking for the wire and analogous pages for the Home, Downloads, or The Monero Project pages, go to the bottom of this document.*
+**If you're looking for the wire and analogous pages for the Home, Downloads, or The Monero Project pages, go to the bottom of this document.**
 
 # Instructions
 
@@ -11,7 +11,7 @@ This folder of the Monero site repository is set up so anyone who wants to help 
 4. View the provided page wire and analogous current webpage.
 5. Open your file of choice and write your copy in the correct section.
 
-*Please look at the sitemap to find the page you want to write for. If it's not on the sitemap, it's not on the site.*
+**Please look at the sitemap to find the page you want to write for. If it's not on the sitemap, it's not on the site.**
 
 # A bit more detail
 For each top-level navigation item there is a folder. The pages that do not belong in any of the folders (i.e. home, the monero project, and downloads) have their own file in copy folder. Please navigate to the folder housing the file you want to work with and read the readme provided.
