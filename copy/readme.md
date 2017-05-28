@@ -48,5 +48,6 @@ An album containing all of the site wires can be found [here](http://imgur.com/a
 [Wire](http://imgur.com/Qkc2Oht)
 
 [Analogous Page 1](https://getmonero.org/getting-started/donate/)
+
 [Analogous Page 2](https://getmonero.org/getting-started/donate/hall-of-fame)
 
