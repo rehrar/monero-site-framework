@@ -1,7 +1,7 @@
 # Intro
 This folder of the Monero site repository is set up so anyone who wants to help write copy for the Monero website has a place to submit requested changes before the website goes live. After the new website is up, the copy must be changed in the site itself on the official Monero Project repository.
 
-**If you're looking for the wire and analogous pages for the Home, Downloads, or The Monero Project pages, go to the bottom of this document.**
+**If you're looking for the wire and analogous pages for the Home, Downloads, News, Hall of Fame, or The Monero Project pages, go to the bottom of this document.**
 
 # Instructions
 
@@ -22,7 +22,7 @@ Every file is segmented with different header tags denoting which section of the
 
 An album containing all of the site wires can be found [here](http://imgur.com/a/O40eX).
 
-# Home, Downloads, The Monero Project
+# Home, Downloads, The Monero Project, News, Hall of Fame
 
 ## Home
 [Wire](http://imgur.com/TOrTVK3)
@@ -38,3 +38,15 @@ An album containing all of the site wires can be found [here](http://imgur.com/a
 [Wire](http://imgur.com/hXqlOOd)
 
 [Analogous Page](https://getmonero.org/knowledge-base/openalias)
+
+## News
+[Wire](http://imgur.com/pT33g5q)
+
+[Analogous Page](https://getmonero.org/blog/)
+
+## Donation Hall of Fame
+[Wire](http://imgur.com/Qkc2Oht)
+
+[Analogous Page 1](https://getmonero.org/getting-started/donate/)
+[Analogous Page 2](https://getmonero.org/getting-started/donate/hall-of-fame)
+
