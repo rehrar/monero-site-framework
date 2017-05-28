@@ -26,12 +26,15 @@ An album containing all of the site wires can be found [here](http://imgur.com/a
 
 ## Home
 [Wire](http://imgur.com/TOrTVK3)
+
 [Analogous Page](https://getmonero.org/home)
 
 ## Downloads
 [Wire](http://imgur.com/rUY2N6J)
+
 [Analogous Page](https://getmonero.org/downloads/)
 
 ## The Monero Project
 [Wire](http://imgur.com/hXqlOOd)
+
 [Analogous Page](https://getmonero.org/knowledge-base/openalias)
