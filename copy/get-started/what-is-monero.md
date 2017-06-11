@@ -1,9 +1,15 @@
 # About Monero
+<<<<<<< HEAD
  
 ### This is just test commit and first section - /u/midipoet
  
 Monero provides the platform and interface for private, anonymous and secure financial activity. It is one of the leading cryptocurrencies in the post-Bitcoin world, and it is built on principles of privacy, decentralization, and scalability.
 
+=======
+
+Monero provides the platform and interface for private, anonymous and secure financial activity. It is one of the leading cryptocurrencies in the post-Bitcoin world, and it is built on principles of privacy, decentralization, and scalability.
+
+>>>>>>> b6f335bc8361c80f34d3cf41775a3b1c0df6483a
 Financial privacy is important but in recent years corporations, banks, and governments have have seen databases compromised, leaking private and sensitive information to potentially nefarious agents; information about users, uses, practices and finances. The unfortunate, but undeniable, conclusion is that there is great need for safe and secure methods of conducting financial transactions. Monero is a cytopgraphically secure, decentralized, private digital currency that enables such value transfer.  
 
 Monero is a crytpographically sound digital currency that enables private and secure peer to peer value exchange. Crucially, it is fungibile, meaning that all units are viewed "equal". This is of paramount importance for any currency. Without fungibility, money flows can be tracked, tainted and monitored, deterring how the currency may be used for secure and private value transfer. Transactions using Monero are untraceable, as the currency is built on state of the art implementations of cryptographic technologies such as Ring Signatures and RingCT. The implementation of this technology means that it almost impossible to trace a particular transaction to an individual user. 
