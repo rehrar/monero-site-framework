@@ -1,19 +1,3 @@
-# Subheading
-
-Copy here
-
-#  CLI Instructions
-
-Copy here
-
-# GUI Instructions
-
-Copy here
-
-
-
-
-
 # Accepting Monero
 
 ## Instructions for the GUI
@@ -33,10 +17,12 @@ Checking for a Payment in monero-wallet-cli
 
 If you want to check for a payment using monero-wallet-cli you can use the "payments" command followed by the payment ID or payment IDs you want to check. For example:
 
+```
 [wallet 49VNLa]: payments 666c75666679706f6e7920697320746865206265737420706f6e792065766572
             payment                           transaction               height     amount     unlock time
  666c75666679706f6e79206973207     7ba4cd810c9b4096869849458181e98e     441942     30.00000   0
 [wallet 49VNLa]: █
+```
 
 If you need to check for payments programmatically, then details follow the next section.
 
@@ -56,6 +42,7 @@ get_bulk_payments: this is the preferred method, and requires two parameters, pa
 
 An example of returned data is as follows:
 
+```
 [ monero->~ ]$ curl -X POST http://127.0.0.1:18500/json_rpc -d '{"jsonrpc":"2.0","method":"get_bulk_payments","id":"test", "params":{"payment_ids": ["666c75666679706f6e7920697320746865206265737420706f6e792065766572"]}}' -H "Content-Type: application/json"
 {
   "id": "test",
@@ -70,6 +57,7 @@ An example of returned data is as follows:
     }]
   }
 }
+```
 
 It is important to note that the amounts returned are in base Monero units and not in the display units normally used in end-user applications. Also, since a transaction will typically have multiple outputs that add up to the total required for the payment, the amounts should be grouped by the tx_hash or the payment_id and added together. Additionally, as multiple outputs can have the same amount, it is imperative not to try and filter out the returned data from a single get_bulk_payments call.
 
