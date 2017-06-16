@@ -2,10 +2,10 @@
 
 ## Monero Videos
 
-### Monero Promo
-### Monero: The Essentials
-### Stealth Addresses
-### Ring Signatures
+- ### Monero Promo
+- ### Monero: The Essentials
+- ### Stealth Addresses
+- ### Ring Signatures
 
 ## Main Features
 
