@@ -1,8 +1,6 @@
-# Subheading
+# What Is Monero?
 
-Copy here
-
-# Main Features
+## Monero Videos
 
 ## Feature 1
 
