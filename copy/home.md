@@ -35,3 +35,26 @@ By taking advantage of ring signatures, a special property of certain types of c
 
 Need it for a different operating system? View all available downloads here.
 
+## Latest News
+
+More news
+
+## Moneropedia
+
+The Monero Wiki.
+
+## User Guides
+
+Always a work in progress!
+
+## FAQ
+
+Frequently asked questions.
+
+
+#### Footer
+##### Footer
+
+
+
+
