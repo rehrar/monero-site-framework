@@ -43,17 +43,19 @@ More news
 
 The Monero Wiki.
 
+Would you like to look up the meaning of the terminology used by Monero? Here you will find an alphabetical list of terms and their meanings. 
+
 ## User Guides
 
 Always a work in progress!
+
+These guides will take you through the process of creating a wallet and using it. More advanced guides will show you how you can take a more active role in the Monero community.
 
 ## FAQ
 
 Frequently asked questions.
 
-
-#### Footer
-##### Footer
+If you find yourself getting stuck, you might find help with typical customer service questions that are answered here. 
 
 
 
