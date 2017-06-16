@@ -28,10 +28,10 @@ Monero uses a cryptographically sound system that allows you to send and receive
 By taking advantage of ring signatures, a special property of certain types of cryptography, Monero enables untraceable transactions. This means it's ambiguous which funds have been spent, and thus extremely unlikely that a transaction could be linked to particular user.
 
 ## Downloads
-### Monero for Windows
-### Monero for Mac
-### Monero for Linux
-### Latest Blockchain
+- ### Monero for Windows
+- ### Monero for Mac
+- ### Monero for Linux
+- ### Latest Blockchain
 
 Need it for a different operating system? View all available downloads here.
 
