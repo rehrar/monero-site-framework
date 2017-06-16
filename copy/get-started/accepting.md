@@ -42,9 +42,9 @@ If you need to check for payments programmatically, then details follow the next
 
 ### Receiving a Payment Step-by-Step
 
-    - Generate a random 64 character hexadecimal string for the payment
-    - Communicate the payment ID and Monero address to the individual who is making payment
-    - Check for the payment using the "payments" command in monero-wallet-cli
+- Generate a random 64 character hexadecimal string for the payment
+- Communicate the payment ID and Monero address to the individual who is making payment
+- Check for the payment using the "payments" command in monero-wallet-cli
 
 ### Checking for a Payment Programatically
 
@@ -77,8 +77,8 @@ Before scanning for payments it is useful to check against the daemon RPC API (t
 
 ### Programatically Scanning for Payments
 
-    - Get the current block height from the daemon, only proceed if it has increased since our last scan
-    - Call the get_bulk_payments RPC API call with our last scanned height and the list of all payment IDs in our system
-    - Store the current block height as our last scanned height
-    - Remove duplicates based on transaction hashes we have already received and processed
+- Get the current block height from the daemon, only proceed if it has increased since our last scan
+- Call the get_bulk_payments RPC API call with our last scanned height and the list of all payment IDs in our system
+- Store the current block height as our last scanned height
+- Remove duplicates based on transaction hashes we have already received and processed
 
