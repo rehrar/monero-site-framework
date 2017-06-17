@@ -8,6 +8,9 @@ Ongoing development of the Monero Project is solely supported by donations and s
 
 If you would like to make a donation you can do so by using any of the methods below:
 
+ - _Monero address QR code_
+ - _Bitcoin address QR code_
+
 ### Donating in Monero
 
 You can send XMR donations to donate.getmonero.org, or directly to our Monero donation address - 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A
