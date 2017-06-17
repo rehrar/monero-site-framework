@@ -28,9 +28,9 @@ _Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt velit te
 
 _Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt velit tempor mauris iaculis venenatis. Duis congue fermentum dolor eu viverra. Donec pretium accumsan ligula at mollis. Integer congue vel est sit amet imperdiet._
 
-- Something
-- Something
-- Something
+- _Something_
+- _Something_
+- _Something_
 
 _Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt velit tempor mauris iaculis venenatis. Duis congue fermentum dolor eu viverra. Donec pretium accumsan ligula at mollis. Integer congue vel est sit amet imperdiet._
 
