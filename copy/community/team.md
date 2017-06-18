@@ -12,7 +12,7 @@ Monero is not governed by any foundation or central body
 
 * [Put Pic or Icon here](Put link here)
 
-* [GitHub](Put link here)
+* [GitHub](https://github.com/fluffypony)
 
 * Designation = Core
 
@@ -104,7 +104,7 @@ Put description here
 
 # Other Contributors
 
-There have been massive contributions to Monero from its inception from so many people, including: zone117x, LucasJones, wolf, Professor David Andersen, wallet42, Neozaru, Gingeropolous, cAPSLOCK, and many, many others.
+There have been massive contributions to Monero from its inception from so many people, including: zone117x, LucasJones, wolf, Professor David Andersen, wallet42, Neozaru, Gingeropolous, cAPSLOCK, moneromooo, Thomas Winget, Howard Chu, mikezackles, oranjuice, warptangent, rfree, jakoblind, tomerkon, and anonimal (Kovri), Surae Noether, Sarang Noether, Shen Noether, and many others which can be found on our [GitHub Contributors page](https://github.com/monero-project/bitmonero/graphs/contributors).
 
 # Special Thanks
 
