@@ -11,7 +11,7 @@ To get started with Monero, download the Monero wallet. Then buy some Monero usi
 ## Monero
 ### Private Digital Currency
 
-Monero is a secure, private, untraceable currency. It is open-source and freely available to all.With Monero, you are your own bank. Only you control and are responsible for your funds, and your accounts and transactions are kept private from prying eyes.
+Monero is a secure, private, untraceable currency. It is open-source and freely available to all. With Monero, you are your own bank. Only you control and are responsible for your funds, and your accounts and transactions are private by default, keeping them from prying eyes.
 
 ## What is Monero?
 
@@ -26,6 +26,10 @@ Monero uses a cryptographically sound system that allows you to send and receive
 ### Untraceable
 
 By taking advantage of ring signatures, a special property of certain types of cryptography, Monero enables untraceable transactions. This means it's ambiguous which funds have been spent, and thus extremely unlikely that a transaction could be linked to particular user.
+
+### Fungible
+
+Utilizing the above technologies, Monero has become the first truly fungible digital currency. In other words, one Monero will always be equal to another, because of the on-by-default nature of the privacy technologies. There will never be such a thing as blacklisted Monero.
 
 ## Downloads
 - ### Monero for Windows
