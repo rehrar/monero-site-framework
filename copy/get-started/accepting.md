@@ -8,9 +8,9 @@ _Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt velit te
 
 ### The Basics
 
-Monero works a little differently to what you may have become accustomed to from other cryptocurrencies. In the case of a digital currency like Bitcoin and its many derivatives merchant payment systems will usually create a new recipient address for each payment or user.
+Thanks to it's privacy and security focused orgin, Monero has many advantages over traditional cryptocurrency. Monero uses stealth addresses which are completely anonymous and untraceable. Instead of dozens of different public addresses used in most other cryptos, with Monero you have one unchanging address to receive payments.  The RingCT feature in Monero hides every transaction amount.
 
-However, because Monero has stealth addresses there is no need to have separate recipient addresses for each payment or user, and a single account address can be published. Instead, when receiving payments a merchant will provide the person paying with a "payment ID".
+If you're a merchant, or you need to uniquely identify incoming payments, you can use the "payment ID" feature of Monero.
 
 A payment ID is a hexadecimal string that is 64 characters long, and is normally randomly created by the merchant. An example of a payment ID is: 666c75666679706f6e7920697320746865206265737420706f6e792065766572
 Checking for a Payment in monero-wallet-cli
