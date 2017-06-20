@@ -28,7 +28,7 @@ To donate via credit card, wire transfer, or PayPal, please email the core team 
 ### Join the community
 We're all over the place. 
 
-- The Monero subreddits
+- #### The Monero subreddits
 
    https://www.reddit.com/r/monero/
 
