@@ -8,7 +8,7 @@ Ongoing development of the Monero Project is solely supported by donations and s
 
 If you would like to make a donation you can do so by using any of the methods below:
 
- ![Donation QR Code - 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A]
+ ![Donation QR Code]
  (http://i.imgur.com/ITnXNhU.png)
  - _Bitcoin address QR code_
 
