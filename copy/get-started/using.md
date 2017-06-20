@@ -7,7 +7,7 @@ Using Monero is easy, and there are a variety of tools and guides available to h
 
 # Start Here
 
-Monero is a cryptocurrency that allows anonymous transactions around the world. Monero stands on pillars of security, privacy, and decentralization, and the community and developers are committed to protecting these values. We suggest learning more about how Monero works and reading the Ideals page. The source code for Monero and all our official clients are available for public view and discussion on Github.
+Monero is a cryptocurrency that allows anonymous transactions around the world. Monero stands three pillars; Security, Privacy, and Decentralization. The community and developers are committed to protecting these values. We suggest learning more about how Monero works and reading the Ideals page. The source code for Monero and all our official clients are available for public view and discussion on [Github](https://github.com/monero-project).
 
 - Ideals
 
