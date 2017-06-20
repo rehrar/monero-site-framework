@@ -29,6 +29,7 @@ To donate via credit card, wire transfer, or PayPal, please email the core team 
 We're all over the place. 
 
 - The Monero subreddits
+
    https://www.reddit.com/r/monero/
 
    https://www.reddit.com/r/MoneroMarket
@@ -37,18 +38,22 @@ We're all over the place.
 
 
 - The Monero Forum
+
    https://forum.getmonero.org/
 
 
 - The Monero StackExchange
+
    https://monero.stackexchange.com/
 
 
 - The Monero GitHub
+
    https://github.com/monero-project/monero
 
 
 - Monero IRC Channels on chat.freenode.net
+
    #monero, #monero-markets, #monero-offtopic, #monero-otc, #monero-dev
 
 
