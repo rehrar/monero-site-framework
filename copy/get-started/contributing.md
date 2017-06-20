@@ -37,22 +37,22 @@ We're all over the place.
    https://www.reddit.com/r/MoneroMining
 
 
-- The Monero Forum
+- #### The Monero Forum
 
    https://forum.getmonero.org/
 
 
-- The Monero StackExchange
+- #### The Monero StackExchange
 
    https://monero.stackexchange.com/
 
 
-- The Monero GitHub
+- #### The Monero GitHub
 
    https://github.com/monero-project/monero
 
 
-- Monero IRC Channels on chat.freenode.net
+- #### Monero IRC Channels on chat.freenode.net
 
    #monero, #monero-markets, #monero-offtopic, #monero-otc, #monero-dev
 
