@@ -37,20 +37,19 @@ https://www.reddit.com/r/MoneroMining
 
 
 - The Monero Forum
-https://forum.getmonero.org/
+ https://forum.getmonero.org/
 
 
 - The Monero StackExchange
-https://monero.stackexchange.com/
+ https://monero.stackexchange.com/
 
 
 - The Monero GitHub
-https://github.com/monero-project/monero
+ https://github.com/monero-project/monero
 
 
 - Monero IRC Channels on chat.freenode.net
-
-#monero, #monero-markets, #monero-offtopic, #monero-otc, #monero-dev
+ #monero, #monero-markets, #monero-offtopic, #monero-otc, #monero-dev
 
 
 Start discussions, ask questions. The more faces we see that are excited about Monero, the more morale increases and the more like a weird dysfunctional family we all become.
