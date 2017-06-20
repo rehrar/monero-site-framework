@@ -47,10 +47,16 @@ We're all over the place.
    https://monero.stackexchange.com/
 
 - #### The Monero Wiki (Moneropedia)
-
+   
+   The wiki can be edited via GitHub.
+   
    https://getmonero.org/knowledge-base/moneropedia/
+   
+   https://github.com/monero-project/monero-site/tree/master/knowledge-base/moneropedia
 
 - #### The Monero GitHub
+
+   Anyone can join GitHub and help Monero by refining text and adding information about Monero.
 
    https://github.com/monero-project/monero
 
