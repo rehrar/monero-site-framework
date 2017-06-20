@@ -46,6 +46,9 @@ We're all over the place.
 
    https://monero.stackexchange.com/
 
+- #### The Monero Wiki (Moneropedia)
+
+   https://getmonero.org/knowledge-base/moneropedia/
 
 - #### The Monero GitHub
 
