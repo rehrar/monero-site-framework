@@ -28,13 +28,24 @@ To donate via credit card, wire transfer, or PayPal, please email the core team 
 ### Join the community
 We're all over the place. 
 
+- The Monero subreddits
+https://www.reddit.com/r/monero/
+https://www.reddit.com/r/MoneroMarket
+https://www.reddit.com/r/MoneroMining
 
-- The Monero subreddit https://www.reddit.com/r/monero/
-- The Monero Forum 
+- The Monero Forum
+https://forum.getmonero.org/
+
+- The Monero StackExchange
+https://monero.stackexchange.com/
+
+- The Monero GitHub
+https://github.com/monero-project/monero
+
 - Monero IRC Channels on chat.freenode.net
 #monero, #monero-markets, #monero-offtopic, #monero-otc, #monero-dev
 
-Yeah, come on. Start discussions, ask questions. The more faces we see that are excited about Monero, the more morale increases and the more like a weird dysfunctional family we all become.
+Start discussions, ask questions. The more faces we see that are excited about Monero, the more morale increases and the more like a weird dysfunctional family we all become.
 
 ## Coding
 
