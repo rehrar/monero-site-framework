@@ -8,7 +8,7 @@ _Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt velit te
 
 ### The Basics
 
-Thanks to it's privacy and security focused orgin, Monero has many advantages over traditional cryptocurrency. Monero uses stealth addresses which are completely anonymous and untraceable. Instead of dozens of different public addresses used in most other cryptos, with Monero you have one unchanging address to receive payments.  The RingCT feature in Monero hides every transaction amount.
+Thanks to its privacy and security focused orgin, Monero has many advantages over traditional cryptocurrency. Monero uses stealth addresses which are completely anonymous and untraceable. Instead of dozens of different public addresses used in most other cryptos, with Monero you have one unchanging address to receive payments.  The RingCT feature in Monero hides every transaction amount.
 
 If you're a merchant, or you need to uniquely identify incoming payments, you can use the "payment ID" feature of Monero.
 
