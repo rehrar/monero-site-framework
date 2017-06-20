@@ -1,6 +1,14 @@
 # Contributing to Monero
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt velit tempor mauris iaculis venenatis. Duis congue fermentum dolor eu viverra. Donec pretium accumsan ligula at mollis. Integer congue vel est sit amet imperdiet._
+Monero is an open source, *community* driven project. We strive to be a welcoming community. Perhaps you want to contribute?
+
+## Forum Funding System
+
+Monero utilizes a Forum Funding System (FFS) which encourages people of all backgrounds to be a part of Monero and maybe even *get paid* for it. Anyone can suggest an idea, ask for funding, and immediately start making the idea happen. As progress is made payments are released and Monero flourishes.  There is a General Fund which is used to add features to Monero, improve services, build better websites, and even market Monero.  You can also donate directly to individual projects.  Take a look and don't be afraid to jump right in with an idea or a donation.
+
+   https://forum.getmonero.org/8/funding-required 
+
+   https://forum.getmonero.org/9/work-in-progress
 
 ## Donating
 
@@ -8,7 +16,7 @@ Ongoing development of the Monero Project is solely supported by donations and s
 
 If you would like to make a donation you can do so by using any of the methods below:
 
- ![Donation QR Code - 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A](http://i.imgur.com/ITnXNhU.png)
+![Donation QR Code - 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A](http://i.imgur.com/ITnXNhU.png)
 ![Donation QR Code - 1KTexdemPdxSBcG55heUuTjDRYqbC5ZL8H](http://i.imgur.com/y0mitin.png)
 
 ### Donating in Monero
