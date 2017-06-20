@@ -26,7 +26,7 @@ To donate via credit card, wire transfer, or PayPal, please email the core team 
 ## General (not coding)
 
 ### Join the community
-We're all over the place. 
+We're all over the place.  Start discussions, ask questions. The more faces we see that are excited about Monero, the more morale increases and the further we push the boundaries of what a cryptocurrency can become.
 
 - #### The Monero subreddits
 
@@ -66,7 +66,6 @@ We're all over the place.
    #monero, #monero-markets, #monero-offtopic, #monero-otc, #monero-dev
 
 
-Start discussions, ask questions. The more faces we see that are excited about Monero, the more morale increases and the more like a weird dysfunctional family we all become.
 
 ## Coding
 
