@@ -25,21 +25,16 @@ To donate via credit card, wire transfer, or PayPal, please email the core team 
 
 ## General (not coding)
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt velit tempor mauris iaculis venenatis. Duis congue fermentum dolor eu viverra. Donec pretium accumsan ligula at mollis. Integer congue vel est sit amet imperdiet._
+### Join the community
+We're all over the place. 
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt velit tempor mauris iaculis venenatiis congue fermentum dolor eu viverra. Donec pretium accumsan ligula at mollis. Integer congue vel est sit amet imperdiet._
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt velit tempor mauris iaculis venenatis. Duis congue fermentum dolor eu viverra. Donec pretium accumsan ligula at mollis. Integer congue vel est sit amet imperdiet._
+- The Monero subreddit https://www.reddit.com/r/monero/
+- The Monero Forum 
+- Monero IRC Channels on chat.freenode.net
+#monero, #monero-markets, #monero-offtopic, #monero-otc, #monero-dev
 
-- _Something_
-- _Something_
-- _Something_
-
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt velit tempor mauris iaculis venenatis. Duis congue fermentum dolor eu viverra. Donec pretium accumsan ligula at mollis. Integer congue vel est sit amet imperdiet._
-
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt velit tempor mauris iaculis venenatiis congue fermentum dolor eu viverra. Donec pretium accumsan ligula at mollis. Integer congue vel est sit amet imperdiet._
-
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt velit tempor mauris iaculis venenatis. Duis congue fermentum dolor eu viverra. Donec pretium accumsan ligula at mollis. Integer congue vel est sit amet imperdiet._
+Yeah, come on. Start discussions, ask questions. The more faces we see that are excited about Monero, the more morale increases and the more like a weird dysfunctional family we all become.
 
 ## Coding
 
