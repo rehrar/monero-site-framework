@@ -33,7 +33,7 @@ To donate via credit card, wire transfer, or PayPal, please email the core team 
 
 ## General (not coding)
 
-### Join the community
+### Join the Community
 We're all over the place.  Start discussions, ask questions. The more faces we see that are excited about Monero, the more morale increases and the further we push the boundaries of what a cryptocurrency can become.
 
 - #### The Monero subreddits
@@ -43,12 +43,8 @@ We're all over the place.  Start discussions, ask questions. The more faces we s
    https://www.reddit.com/r/MoneroMarket
 
    https://www.reddit.com/r/MoneroMining
-
-
-- #### The Monero Forum
-
-   https://forum.getmonero.org/
-
+   
+   https://www.reddit.com/r/MoneroCommunity
 
 - #### The Monero StackExchange
 
@@ -72,8 +68,15 @@ We're all over the place.  Start discussions, ask questions. The more faces we s
 - #### Monero IRC Channels on chat.freenode.net
 
    #monero, #monero-markets, #monero-offtopic, #monero-otc, #monero-dev
+      
+### Attend a Meetup
+Talking with people online is nice and all, but sometimes it's enjoyable to chat with people in person. See the list of upcoming events here. If nothing is happening around you, it's easy to start something yourself! Just meet with local enthusiasts at a bar and chat.
 
+### Run a Full Node
+Run monerod with port 18080 open. This will help your node distribute copies of the blockchain to other nodes on the network.
 
+### Mine
+From the GUI and CLI, there is an option to start mining. This is a great way to protect the decentralization of the network. If you have a powerful graphics card or hope to mine for profit, see more advanced options in the [MoneroMining subreddit](https://reddit.com/r/MoneroMining).
 
 ## Coding
 
