@@ -3,16 +3,27 @@
 ## Table of Contents
 
 1.0 Introduction
+
 2.0 What you'll need
+
 3.0 General change recommendations
+
 4.0 How to make a blog post
+
 5.0 How to make a User Guide
+
 6.0 How to make a Moneropedia entry
+
 7.0 How to make a FFS Proposal
+
 8.0 How to update the Team page
+
 9.0 How to make an Event
+
 10.0 How to update the Roadmap
+
 11.0 How to add a new Merchant
+
 12.0 How to add a question to the FAQ
 
 ## 1.0 Introduction
