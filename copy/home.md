@@ -15,21 +15,23 @@ Monero is a secure, private, untraceable currency. It is open-source and freely 
 
 ## What is Monero?
 
-### Secure
+### Monero is secure
 
-Using the power of a distributed peer-to-peer consensus network, every transaction is cryptographically secured. Individual accounts have a 25 word mnemonic seed displayed when created, which can be written down to back up the account. Account files are encrypted with a passphrase to ensure they are worthless if stolen.
+Monero can't be hacked to steal your funds, due to the power of distributed consensus, which you can read about [here](). This means that you are responsible for your money, and don't have to trust any entity to keep it safe for you.
 
-### Private
+### Monero is private
 
-Monero uses a cryptographically sound system that allows you to send and receive funds without your transactions being publicly visible on the blockchain (the distributed ledger of transactions). This ensures that your purchases, receipts, and other transfers remain private by default.
+The power of the blockchain usually increases security at the cost of privacy, but with [Monero's sophisticated privacy-centric technology](/get-started/how-it-works.html), you get all of the security benefits of the blockchain without any of the privacy trade-offs.
 
-### Untraceable
+### Monero is untraceable
 
-By taking advantage of ring signatures, a special property of certain types of cryptography, Monero enables untraceable transactions. This means it's ambiguous which funds have been spent, and thus extremely unlikely that a transaction could be linked to particular user.
+By taking advantage of ring signatures, Monero makes it ambiguous which funds have been spent, and thus extremely unlikely that a transaction could be linked to particular user.
 
 ### Fungible
 
-Utilizing the above technologies, Monero has become the first truly fungible digital currency. In other words, one Monero will always be equal to another, because of the on-by-default nature of the privacy technologies. There will never be such a thing as blacklisted Monero.
+Because of the on-by-default nature of the privacy technologies, Monero is fungible, meaning one Monero will always be equal to another. This means you won't hae to worry about Monero blacklisted by exchanges or vendors.
+
+Monero is the only truly fungible digital currency, meaning, one Monero will always be equal to another, because of the on-by-default nature of the privacy technologies. There will never be such a thing as blacklisted Monero.
 
 ## Downloads
 - ### Monero for Windows
